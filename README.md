@@ -1,7 +1,7 @@
 
 <div align ="center">
   
-$\text{\color{#292D4F}The}$ $\text{\color{#605E87}corporation . . .}$ $\text{\color{#D3A098}they}$ $\text{\color{#DCC9BE}saved}$ $\text{\color{#EBEACC}me.}$
+$\text{\color{#292D4F}The}$ $\text{\color{#605E87}corporation . . .}$ 　 $\text{\color{#D3A098}they}$ $\text{\color{#DCC9BE}saved}$ $\text{\color{#EBEACC}me.}$
 
 
   
@@ -11,9 +11,16 @@ $\text{\color{#292D4F}What}$ $\text{\color{#605E87}was}$ $\text{\color{#D3A098}l
 
 <details>
 
-<summary>$\text{\color{#EBEACC}♡}$</summary>
+<summary>$\text{\color{#292D4F}♡}$</summary>
 
-$\text{\color{#605E87}profile wip}$
+
+$\text{\color{#605E87}he/it　17　infp}$
+
+$\text{\color{#D3A098}system　cluster b　audhd}$
+
+$\text{\color{#DCC9BE}usually offtab w2i}$
+
+$\text{\color{#EBEACC}feel free to interact with me, im a bit shy when it comes to making friends/speaking first}$
 
 </details>
  
