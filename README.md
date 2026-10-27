@@ -1,27 +1,29 @@
 
 <div align ="center">
   
-$\text{\color{#292D4F}The}$ $\text{\color{#605E87}corporation . . .}$ 　 $\text{\color{#D3A098}they}$ $\text{\color{#DCC9BE}saved}$ $\text{\color{#EBEACC}me.}$
+$\text{\color{#3e5c76}i}$ $\text{\color{#3e5c76}just}$ 　 $\text{\color{#3e5c76}cannot}$ $\text{\color{#748cab}help}$ $\text{\color{#f0ebd8}myself}$
 
 
   
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/a8f06003-4d13-4d57-a316-098a927e1f08" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/cb898331-e8fd-4648-b362-20794c655df2" />
   
-$\text{\color{#292D4F}What}$ $\text{\color{#605E87}was}$ $\text{\color{#D3A098}left}$ $\text{\color{#d8b5ab}of}$ $\text{\color{#DCC9BE}me,}$ $\text{\color{#EBEACC}anyway.}$
+$\text{\color{#3e5c76}but}$ $\text{\color{#3e5c76}fall}$ $\text{\color{#3e5c76}right}$ $\text{\color{#748cab}into}$ $\text{\color{#f0ebd8}you}$
 
 <details>
 
-<summary>$\text{\color{#292D4F}♡}$</summary>
+<summary>$\text{\color{#1d2d44}♡}$</summary>
 
 
-$\text{\color{#605E87}he/it　17　infp}$
+$\text{\color{#1d2d44}he/it　17　infp}$
 
-$\text{\color{#D3A098}system　cluster b　audhd}$
+$\text{\color{#3e5c76}system　cluster b　audhd}$
 
-$\text{\color{#DCC9BE}usually offtab w2i}$
+$\text{\color{#748cab}usually offtab w2i}$
 
-$\text{\color{#EBEACC}feel free to interact with me, im a bit shy when it comes to making friends/speaking first}$
+$\text{\color{#f0ebd8}feel free to interact with me, im a bit shy when it comes to making friends/speaking first}$
 
 </details>
  
-![Profile views](https://views.igorkowalczyk.dev/api/badge/wwindowsxp?label=interns&labelColor=EBEACC&color=292D4F&style=classic)
+![Profile views](https://views.igorkowalczyk.dev/api/badge/wwindowsxp?label=sinners&labelColor=f0ebd8&color=3e5c76&style=classic)
+
+
