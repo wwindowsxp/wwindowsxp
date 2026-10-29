@@ -29,7 +29,7 @@ $\text{\color{#f0ebd8}feel free to interact with me, im a bit shy when it comes 
 
 </details>
 
-[carrd](https://win-xp.carrd.co/)
+[carrd](https://win-xp.carrd.co/)　†　[ata](https://johngrace.atabook.org/)
 
 
 
